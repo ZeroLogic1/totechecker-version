@@ -1,0 +1,47 @@
+{   "admins": [
+    "ryan.hepplestone2",
+    "dariusz.andrzejewski2",
+    "craig.taylor",
+    "john.butta2",
+    "pavel.grenda",
+    "tomas.brecka2",
+    "rashid.iqbal2",
+    "Justin.grist",
+    "james.hudson",
+    "jak.bennett",
+    "shina.oyetunde2",
+    "john.ransby",
+    "ryan.hepplestone@allianceautomotive.co.uk",
+    "matt.smith"
+    ],
+    
+    "disabled_users": [
+        {
+            "username": "pavel.grenda",
+            "reason": " Skill Issue"
+        },
+        {
+            "username": "craig.t",
+            "reason": "Skill Issue"
+        }
+    ],
+"system_controllers": [
+    "ryan.hepplestone2",
+    "dariusz.andrzejewski2",
+    "craig.taylor",
+    "pavel.grenda",
+    "tomas.brecka2",
+    "rashid.iqbal2",
+    "james.hudson",
+    "shina.oyetunde2",
+    "john.ransby",
+    "ryan.hepplestone@allianceautomotive.co.uk"
+],
+"manhattan_roles": [
+    "AAG-AAU-ADMINROLE",
+    "RTM_FIRST_LINE_MANAGER",
+    "admin@AAG-AAU-RTM",
+    "AAU First Line Manager",
+    "RTM First Line Manager"
+]
+}

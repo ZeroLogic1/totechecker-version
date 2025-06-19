@@ -1,0 +1,16 @@
+{
+    "latest_version": {
+        "version": "5.1.5",
+        "release_date": "2025-06-06",
+        "download_url": "https://github.com/ZeroLogic1/totechecker-version/releases/download/5.1.5/ToteChecker.5.1.5.exe",
+        "patch_notes": 
+            "Updated Flags logic.\nRemoved some legacy code.\n"
+        
+        
+    },
+    
+    "active_check": {"active": "true",
+    "message": "Disabled"
+    }
+    
+}

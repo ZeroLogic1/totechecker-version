@@ -2,7 +2,7 @@
     "latest_version": {
         "version": "5.1.5",
         "release_date": "2025-06-06",
-        "download_url": "https://github.com/RyanHepplestone/totechecker-version/releases/download/5.1.5/ToteChecker.5.1.5.exe",
+        "download_url": "https://github.com/RyanHepplestone/totechecker-version/releases/download/5.1.6/ToteChecker.5.1.6.exe",
         "patch_notes": 
             "Updated Flags logic.\nRemoved some legacy code.\n"
         
